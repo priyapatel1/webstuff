@@ -1,2 +1,0 @@
-import polls.views
-
